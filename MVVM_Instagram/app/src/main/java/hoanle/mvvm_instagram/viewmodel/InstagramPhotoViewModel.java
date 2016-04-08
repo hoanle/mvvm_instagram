@@ -6,7 +6,7 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 
-import hoanle.mvvm_instagram.InstagramPhoto;
+import hoanle.mvvm_instagram.object.InstagramPhoto;
 
 /**
  * Created by hoanle on 4/1/16.
